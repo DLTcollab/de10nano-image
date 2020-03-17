@@ -1,2 +1,2 @@
 # de10nano-image
-The image file for DE10-Nano board
+Linux system image for [Terasic DE10-Nano Kit](https://www.terasic.com.tw/cgi-bin/page/archive.pl?Language=English&CategoryNo=165&No=1046)
